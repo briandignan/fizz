@@ -2,11 +2,11 @@ print 'hello'
 
 for i in range( 1, 101):
 	if i % 15 == 0:
-		print 'fizzbuzz'
+		print 'fizzybuzzy'
 	elif i % 5 == 0:
-		print 'buzz'
+		print 'buzzy'
 	elif i % 3 == 0:
-		print 'fizz'
+		print 'fizzy'
 	else: 
 		print i
 
